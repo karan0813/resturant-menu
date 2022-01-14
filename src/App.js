@@ -16,11 +16,11 @@ function App() {
       
      
       {/* <Home/>  */}
-      <Contant  img="https://img-global.cpcdn.com/recipes/08f565c41a52d4c9/1200x630cq70/photo.jpg" price="130" tittle="Chiken Chilli" />
-      <Contant img="https://aroma-grill.com/wp-content/uploads/2021/06/chilli-chicken.jpg" price="120"  tittle="Chiken Kabab" />
-      <Contant img="https://img-global.cpcdn.com/recipes/287b6654c04efe13/1200x630cq70/photo.jpg"  price="100"  tittle="Chiken FryedRice"/>
-      <Contant img="https://www.roguechef.com/wp-content/uploads/2021/01/Gobi-Manchurian.png" price="60"  tittle="Gobi Manchurian" />
-      <Contant img="https://www.pccmarkets.com/wp-content/uploads/2021/01/pcc-leftover-deli-roast-chicken-soup-flo.jpg"  tittle="Chiken Sup" price="60"/>
+      <Contant  img="https://img-global.cpcdn.com/recipes/08f565c41a52d4c9/1200x630cq70/photo.jpg" price="130" tittle="Chicken Chilli" />
+      <Contant img="https://aroma-grill.com/wp-content/uploads/2021/06/chilli-chicken.jpg" price="120"  tittle="Chicken Kebab" />
+      <Contant img="https://img-global.cpcdn.com/recipes/287b6654c04efe13/1200x630cq70/photo.jpg"  price="100"  tittle="Chicken  fried rice"/>
+      <Contant img="https://www.roguechef.com/wp-content/uploads/2021/01/Gobi-Manchurian.png" price="60"  tittle="gobi manchurian" />
+      <Contant img="https://www.pccmarkets.com/wp-content/uploads/2021/01/pcc-leftover-deli-roast-chicken-soup-flo.jpg"  tittle="Chicken Soup" price="60"/>
       <div className='container  '>
         <div className='row'>
           <div className='col-md-8 border-1 rounded-pill'>
